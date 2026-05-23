@@ -1,10 +1,10 @@
 ---
-title: testCI/CD
+title: testCI-CD
 tags:
   - null
 categories:
   - null
-date: 2026-05-23 18:30:58
+date: 2026-05-23 18:47:17
 ---
 
 ## 📌 一句话总结
